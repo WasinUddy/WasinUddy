@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello There 👋
+### General Kenobi !!!
 <!--
 **WasinUddy/WasinUddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Donation
-1. BitCoin Wallet bc1qqznnwl64w6pmyvwd8d0dz37rs6dpcjqrt9t93l
