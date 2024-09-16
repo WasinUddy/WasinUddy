@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=WasinUddy&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WasinUddy&show_icons=true&theme=radical)
 
