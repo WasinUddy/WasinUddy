@@ -1,17 +1,21 @@
-### Hello There 👋
-<!--
-**WasinUddy/WasinUddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello There 👋 I'm Uddy
 
-Here are some ideas to get you started:
+Contact: [ws@ase.cx](mailto:ws@ase.cx)  
+I'm a 3rd-year **Information and Communication Engineering** student at **Chulalongkorn University** with a strong interest in **DevOps** and **Infrastructure**. I spend most of my money on **homelabbing** 😅 (I 💗 enterprise IT stuff) and firmly believe in automating anything and everything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=WasinUddy&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+---
+
+### Tools and Technologies
+
+#### DevOps
+![DevOps](https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,prometheus,grafana)
+
+#### Infrastructure
+![Infrastructure](https://skillicons.dev/icons?i=kubernetes,linux,aws,azure,raspberrypi)
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=py,js,java)
+
+### Tech Stack
+![Stack](https://skillicons.dev/icons?i=fastapi,react,astro,postgres,mongo,redis,nginx)
 
