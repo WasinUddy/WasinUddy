@@ -14,7 +14,7 @@ I'm a 3rd-year **Information and Communication Engineering** student at **Chulal
 ![Infrastructure](https://skillicons.dev/icons?i=kubernetes,linux,aws,azure,raspberrypi)
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,js,java)
+![Languages](https://skillicons.dev/icons?i=py,js,java,go)
 
 ### Tech Stack
 ![Stack](https://skillicons.dev/icons?i=fastapi,react,astro,postgres,mongo,redis,nginx)
