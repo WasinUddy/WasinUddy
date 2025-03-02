@@ -17,5 +17,5 @@ I'm a 3rd-year **Information and Communication Engineering** student at **Chulal
 ![Languages](https://skillicons.dev/icons?i=py,js,java,go)
 
 ### Tech Stack
-![Stack](https://skillicons.dev/icons?i=fastapi,react,astro,postgres,mongo,redis,nginx)
+![Stack](https://skillicons.dev/icons?i=fastapi,react,nextjs,astro,postgres,mongo,redis,nginx)
 
