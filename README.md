@@ -1,6 +1,6 @@
 ### Hello There 👋 I'm Uddy
 
-Contact: [ws@ase.cx](mailto:ws@ase.cx)  
+Contact: [ws@ase.cx](mailto:wsilakong@gmail.com)  
 I'm a 3rd-year **Information and Communication Engineering** student at **Chulalongkorn University** with a strong interest in **DevOps** and **Infrastructure**. I spend most of my money on **homelabbing** 😅 (I 💗 enterprise IT stuff) and firmly believe in automating anything and everything!
 
 ---
